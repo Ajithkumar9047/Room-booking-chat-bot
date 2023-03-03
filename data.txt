@@ -1,0 +1,1 @@
+{"age of 18": "yes", "name": "ajith kumar", "mobile_number": "9 0 4 7 9 8 1 3 4 3", "address": "10000", "id_type": "aadhar", "id_proof_number": "123456789", "room_type": "single", "Arrival date": "13 july 1997"}
