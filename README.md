@@ -51,4 +51,4 @@ User data is saved to a JSON file for future reference.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-Replace `https://github.com/yourusername/chatbot-speech-recognition.git` with 
+Replace `https://github.com/yourusername/chatbot-speech-recognition.git` with the actual URL of your GitHub repository, and customize the sections as needed. This README provides information about the application, its features, prerequisites, and usage instructions.
